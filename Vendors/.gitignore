@@ -1,0 +1,5 @@
+.env
+Vendors/__pycache__/
+db.sqlite3
+News/__pycache__/
+
